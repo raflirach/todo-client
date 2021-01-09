@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:3000"
+const baseUrl = "https://shrouded-beyond-10396.herokuapp.com"
 
 $(document).ready(function(){
   cekAuth()
